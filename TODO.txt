@@ -1,0 +1,18 @@
+NB: Dans l'ensemble il faudra s'inspirer de test.ipynb
+
+* Convertir les datas en fichiers .cvs (fromat idéal pour le traitement des données avec python)
+
+* S'inspirer de la classe ExpApprox, pour générer LogApprox dans log_apprxo
+
+* cas de cam_pop.ipynb: (on travaille par année)
+    - approx avec les 3 méthodes et détermination de la méilleure (avec tableaux des erreurs pour chaque technique)
+    Rq: tout est fourni pour cela dans les différentes classes
+    - faire une prévision de 2016-2020 & comparer aux données réelles
+    - recalculer les erreurs pour 2016-2020, avec les meilleures méthodes
+    - faire des prédictions de 2025 * 2035 avce  les meilleures méthodes
+
+* cas de cam_covid19.ipynb; (on travaille par semaine)
+    - approx avec les 3 méthodes et détermination de la méilleure (avec tableaux des erreurs pour chaque technique)
+    Rq: tout est fourni pour cela dans les différentes classes
+    - faire une prévision pour les 4 dernières semaines & comparer aux données réelles
+    - recalculer les erreurs pour les 4 dernières semaines, avec les meilleures méthodes
